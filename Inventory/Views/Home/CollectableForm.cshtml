@@ -1,0 +1,15 @@
+@{
+  Layout = "_Layout";
+}
+
+<div class="jumbotron">
+  <h1>Add a collectable to @Model["category"].GetCategoryType()</h1>
+</div>
+
+<div class="container">
+  <form action='/categories/@Model["category"].GetId()' method="post">
+    <label for="collectable-description">Collectable Description</label>
+    <input type="text" name="collectable-description" id="collectable-description">
+    <button type="submit">Add</button>
+  </form>
+</div>

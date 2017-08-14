@@ -1,0 +1,21 @@
+@{
+  Layout = "_Layout";
+}
+<div class="container">
+  <h1>Category tasks:</h1>
+  <ul>
+    @foreach (var collectable in Model["collectables"])
+    {
+      <li>@collectable.GetDescription()</li>
+    }
+  </ul>
+  <form action='/categories/@Model["category"].GetId()/clear' method="post">
+    <button class="btn btn-default" type="submit">Delete All Collectables</button>
+  </form>
+  <form action='/categories/@Model["category"].GetId()/remove' method="post">
+    <button class="btn btn-default" type="submit">Delete This Category</button>
+  </form>
+  <a href='/categories/@Model["category"].GetId()/collectables/new'>Add a new Collectable</a>
+  <a href="/">Back Home</a>
+
+</div>

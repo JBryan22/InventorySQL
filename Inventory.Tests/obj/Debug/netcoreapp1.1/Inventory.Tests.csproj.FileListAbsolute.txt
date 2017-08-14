@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Inventory.Tests.deps.json
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Inventory.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Inventory.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/obj/Debug/netcoreapp1.1/Inventory.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Inventory.Tests.dll
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Inventory.Tests.pdb
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Inventory.dll
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/bin/Debug/netcoreapp1.1/Inventory.pdb
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/obj/Debug/netcoreapp1.1/Inventory.Tests.dll
+/Users/Guest/Desktop/Inventory.Solutions/Inventory.Tests/obj/Debug/netcoreapp1.1/Inventory.Tests.pdb
